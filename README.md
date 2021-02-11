@@ -2,6 +2,7 @@
 
 
 - Java
+- JavaFX
 
 @author: gabyz
 
